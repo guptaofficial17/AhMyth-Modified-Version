@@ -25,4 +25,4 @@ jobs:
       run: chmod +x  AhMyth-Client/gradlew
 
     - name: Build with Gradle
-      run: ./AhMyth-Client/gradlew build
+      run: ./AhMyth-Client/gradlew assemblex86
